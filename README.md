@@ -3,7 +3,6 @@
 
 ---
 
-- 🔭 I’m currently working on a **Credit Card Fraud Detection System** using Machine Learning
 - 🌱 Actively learning **DSA, Full Stack Development, Python, and AI**
 - 💻 Building projects with **Node.js, React, MongoDB, Python, Express.js**
 - 🧠 Exploring **AI-integrated web applications** and data-driven solutions
