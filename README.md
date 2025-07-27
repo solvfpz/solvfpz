@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manas</h1>
+<h1 align="center">Hi , I'm Manas</h1>
 <h3 align="center">AI Engineer in the making | Full Stack Web Developer | Tech Explorer</h3>
 
 ---
