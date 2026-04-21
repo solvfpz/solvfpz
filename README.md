@@ -5,7 +5,7 @@
 
 - 🌱 Actively learning **DSA, Full Stack Development, Python, and AI**
 - 💻 Building projects with **Node.js, React, MongoDB, Python, Express.js**
-- 🧠 Exploring **AI-integrated web applications** and data-driven solutions
+- 🧠 Exploring **AI-integrated web applications**
 - 📂 Portfolio: [solvfpz.github.io/manas-portfolio](manashh.in)
 - 📫 Reach me at: **manasvk2707@gmail.com**
 
