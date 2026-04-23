@@ -7,7 +7,7 @@
 - 💻 Building projects with **Node.js, React, MongoDB, Python, Express.js**
 - 🧠 Exploring **AI-integrated web applications**
 - 📂 Portfolio: [solvfpz.github.io/manas-portfolio](manashh.in)
-- 📫 Reach me at: **manasvk2707@gmail.com**
+- 📫 Reach me at: **manasvk2707@gmail.com** /  https://t.me/obeiwn27
 
 ---
 
