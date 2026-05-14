@@ -19,17 +19,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solvfpz&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=solvfpz&show_icons=true&theme=tokyonight&hide=issues" />
-</p>
-
----
 
 ### 🔗 Connect with me:
 
