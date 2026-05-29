@@ -2,10 +2,10 @@
 
 I’m [**Manas**](https://www.manashh.in/), a 18 y/o web developer based in India.
 
-I love turning ideas into reality, accessible interfaces that feel effortless.
+I love building end-to-end website that are fast, reliable and ship to production.
 
-Outside of code I also enjoy writing solutions to critical problems and sharing tech-related content on social media.
+Outside of code I also enjoy exploring new tech, solving real-world problems and sharing dev content online.
 
 #### Fun Facts:
-* I love coffee while working.
+* I build with AI and ship things that actually work.
 * I debug on prod btw.
